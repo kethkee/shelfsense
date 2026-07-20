@@ -5,8 +5,10 @@ import LoginForm from "./components/LoginForm";
 function App() {
   return (
     <>
-      <Header />
-      <LoginForm />
+      <div className="App_container">
+        <Header />
+        <LoginForm />
+      </div>
     </>
   );
 }

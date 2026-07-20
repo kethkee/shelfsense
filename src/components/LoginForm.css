@@ -8,3 +8,9 @@
     box-shadow:0px 0px 10px lightgray;
 
 }
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
